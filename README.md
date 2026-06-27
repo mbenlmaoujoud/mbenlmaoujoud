@@ -1,5 +1,5 @@
 ## Welcome to my land. I’m glad you’re here !
-![Alt text](287381394-f8e4b684-379b-4b2d-a671-6ebaca75adf4.jpg)
+
 # About Me
 Application Security professional with a background in Red Teaming and Pentesting. Focused on securing web apps, APIs, CI/CD pipelines, and cloud-native/container environments. Exploring secure code, threat modeling, and DevSecOps.
 
